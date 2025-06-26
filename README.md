@@ -1,2 +1,2 @@
 # Image-Gallery
-Project 02 from code alpha company
+Task 01 from CodeAlpha
